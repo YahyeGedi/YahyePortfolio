@@ -1,10 +1,4 @@
 import React, { useState } from "react";
-import portfolio from '../assets/portfolio.png';
-import portfolio1 from '../assets/portfolio1.png';
-import portfolio2 from '../assets/portfolio2.png';
-import portfolio3 from '../assets/portfolio3.png';
-import portfolio4 from '../assets/portfolio4.png';
-import portfolio5 from '../assets/portfolio5.png';
 import emailFilter from '../assets/email-filter.png';
 import dictionary from '../assets/dictionary.png';
 import footy from '../assets/footy.jpg';
