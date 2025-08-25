@@ -3,18 +3,28 @@ import { FaBriefcase, FaGraduationCap } from "react-icons/fa";
 
 // Array of professional and educational experiences
 const experiences = [
-  {
-    id: 1,
-    role: "Software Developer Intern",
-    company: "Ajile Light Industries",
-    period: "Jan 2025 - Present",
+    {
+    id: 3,
+    role: "Undergraduate Teaching Assistant",
+    company: "Carleton University",
+    period: "Sept 2025 - Present",
     description:
-      "Developed and tested application software for advanced 3D imaging systems, and contributed to enhancing machine vision and robotics applications.",
-    icon: <FaBriefcase className="text-blue-500 text-xl" />,
+      "Incoming Teaching Assistant for an Introduction to Artificial Intelligence class at Carleton University this upcoming Fall semester.",
+    icon: <FaBriefcase className="text-green-500 text-xl" />,
     type: "work",
   },
   {
     id: 2,
+    role: "Software Developer Intern",
+    company: "Ajile Light Industries",
+    period: "Jan 2025 - Present",
+    description:
+      "Contributed to the development of advanced 3D imaging and robotics applications by building automated GUI test cases, enhancing internal tools, and designing calibration methods for multi-device systems. Developed a BOM pricing engine, refactored core GUI components, and engineered a mock turntable simulator to accelerate testing workflows and improve system reliability.",
+    icon: <FaBriefcase className="text-blue-500 text-xl" />,
+    type: "work",
+  },
+  {
+    id: 3,
     role: "Undergraduate Teaching Assistant",
     company: "Carleton University",
     period: "May 2024 - Sept 2024",
@@ -24,12 +34,12 @@ const experiences = [
     type: "work",
   },
   {
-    id: 3,
+    id: 4,
     role: "Bachelor's in Computer Science",
     company: "Carleton University",
     period: "2022 - Present",
     description:
-      "Specialized in Artificial Intelligence and Machine Learning Specialization, Minor in Mathematics.",
+      "Specialized in Artificial Intelligence and Machine Learning, Minor in Mathematics.",
     icon: <FaGraduationCap className="text-purple-500 text-xl" />,
     type: "education",
   },
