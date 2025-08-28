@@ -17,7 +17,7 @@ const experiences = [
     id: 2,
     role: "Software Developer Intern",
     company: "Ajile Light Industries",
-    period: "Jan 2025 - Present",
+    period: "Jan 2025 - Sept 2025",
     description:
       "Contributed to the development of advanced 3D imaging and robotics applications by building automated GUI test cases, enhancing internal tools, and designing calibration methods for multi-device systems. Developed a BOM pricing engine, refactored core GUI components, and engineered a mock turntable simulator to accelerate testing workflows and improve system reliability.",
     icon: <FaBriefcase className="text-blue-500 text-xl" />,
